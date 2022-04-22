@@ -125,3 +125,14 @@ def main()
       touch teslll
 ```
 
+# 超链接
+
+[BiliBili](http://www.bilibili.com "点击访问B站")
+
+[百度搜索](http://www.baidu.com "点击访问百度网站")
+
+# 插入图片
+
+![截图](C://Users//17840//Desktop//photo//aaa.jpg "点击图片")
+
+
