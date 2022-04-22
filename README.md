@@ -76,6 +76,9 @@
 # 表格
 
 ##### 表格效果
+:在--左边左居中<br>
+:在--两边居中<br>
+:在--右边右居中<br>
 
 游戏名|价格|排行
 --|:--:|--:
@@ -84,4 +87,41 @@
 英雄联盟|999|22
 
 
+# 代码
+
+##### 在文档中插入代码片段
+
+```c
+#include<stdio.h>
+int main(void)
+{
+    print("");
+}
+
+```
+
+```cpp
+#include<iostream>
+
+using namespcace std;
+int main()
+{
+
+  cout<<"c++"<<endl;
+}
+```
+
+```python
+import os
+
+def main()
+{
+
+}
+```
+
+```bash
+      netstate -apn | Grep
+      touch teslll
+```
 
